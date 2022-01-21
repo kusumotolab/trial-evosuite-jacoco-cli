@@ -1,0 +1,10 @@
+tmp/
+evosuite*/
+jacoco/
+junit/
+build/
+report/
+
+jacoco*
+
+.DS_Store
